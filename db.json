@@ -1,0 +1,25 @@
+{
+  "receitas": [
+    {
+      "id": 1,
+      "titulo": "Pão de Queijo",
+      "imagem": "pao.webp",
+      "descricao": "Delicioso, quentinho e irresistível! Agora ainda mais crocante por fora e macio por dentro!",
+      "link": "paoqueijo.html"
+    },
+    {
+      "id": 2,
+      "titulo": "Macarrão com Carne Moída",
+      "imagem": "macarrao2.jpg",
+      "descricao": "Uma receita clássica e saborosa, perfeita para qualquer ocasião!",
+      "link": "macarraocarne.html"
+    },
+    {
+      "id": 3,
+      "titulo": "Brigadeiro",
+      "imagem": "brigadeiro.jpg",
+      "descricao": "O doce brasileiro mais amado! Simples de fazer e perfeito para qualquer momento.",
+      "link": "brigadeiro.html"
+    }
+  ]
+}
